@@ -19,19 +19,32 @@ Evaluate and compare all models using standard metrics
 Deploy the best-performing model using Streamlit
 
 ## 🗂 Dataset Structure
+
 dataset/
+
 ├── train/
+
 │   ├── Class_1/
+
 │   ├── Class_2/
+
 │   └── ...
+
 ├── val/
+
 │   ├── Class_1/
+
 │   ├── Class_2/
+
 │   └── ...
+
 └── test/
-    ├── Class_1/
-    ├── Class_2/
-    └── ...
+
+│   ├── Class_1/
+
+│   ├── Class_2/
+
+│   └── ...
 
 
 Train: Used for model training with augmentation
@@ -147,5 +160,6 @@ Add real-time camera input support
 
 ## 👤 Author
 
-[Dhanushkumar Srinivasan]
+## Dhanushkumar Srinivasan
+
 Multiclass Fish Image Classification Project
