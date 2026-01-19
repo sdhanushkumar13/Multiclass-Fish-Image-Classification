@@ -160,6 +160,6 @@ Add real-time camera input support
 
 ## 👤 Author
 
-## Dhanushkumar Srinivasan
+Dhanushkumar Srinivasan
 
-Multiclass Fish Image Classification Project
+- Multiclass Fish Image Classification Project
